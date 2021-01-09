@@ -36,3 +36,5 @@ $ npx react-native run-android
 ### Example
 
 
+
+* In the iOS folder (`cd ios`) run: 
